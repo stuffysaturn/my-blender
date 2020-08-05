@@ -4,6 +4,8 @@ Light_Saber/
 *.mov
 *.mp4
 *.png
+*.uni
+*.vdb
 car.Blend
 Chair.Blend
 misc_images_blender/
